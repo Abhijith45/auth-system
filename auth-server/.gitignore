@@ -1,0 +1,11 @@
+# Environment variable fles
+.env
+.env.*
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+
+package-lock.json
